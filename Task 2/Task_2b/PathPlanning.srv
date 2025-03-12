@@ -1,0 +1,7 @@
+# Request
+geometry_msgs/Pose start_position  # Starting position of the drone
+geometry_msgs/Pose waypoint        # Target waypoint
+
+---
+# Response
+geometry_msgs/Pose[] path          # Array of poses representing the planned path
