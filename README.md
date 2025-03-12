@@ -13,7 +13,7 @@ This approach ensures that our drone is **optimized, tested, and ready** before 
 ## **Mission Overview**  
 - **Path Planning:** Efficiently mapping and navigating warehouse environments.  
 - **PID Control:** Ensuring smooth, stable, and precise flight movements.  
-- **Autonomous Navigation:** Real-time decision-making to avoid obstacles and reach targets.  -
+- **Autonomous Navigation:** Real-time decision-making to avoid obstacles and reach targets.  
 - **Aruco Marker Detection:** Identifying and tracking markers for precise localization and package identification.
 
 ## **Technology Stack**  
